@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AvatarGroup matches snapshot 1`] = `
+<div>
+  <div
+    class="AvatarGroup__wrapper"
+    data-testid="avatar-group"
+  >
+    <img
+      alt="https://example.com/avatar1.jpg"
+      class="Avatar__image AvatarGroup__imageAvatar"
+      height="48"
+      src="https://example.com/avatar1.jpg"
+      width="48"
+    />
+    <img
+      alt="https://example.com/avatar2.jpg"
+      class="Avatar__image AvatarGroup__imageAvatar"
+      height="48"
+      src="https://example.com/avatar2.jpg"
+      width="48"
+    />
+    <div
+      class="AvatarGroup__lists"
+      style="width: 48px; height: 48px;"
+    >
+      <span
+        style="font-size: 20px;"
+      >
+        + 
+        1
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`AvatarGroup matches the component snapshot 1`] = `
+<div>
+  <div
+    class="AvatarGroup__wrapper"
+    data-testid="avatar-group"
+  >
+    <img
+      alt="https://testing123123.com/avatar1.jpg"
+      class="Avatar__image AvatarGroup__imageAvatar"
+      height="48"
+      src="https://testing123123.com/avatar1.jpg"
+      width="48"
+    />
+    <img
+      alt="https://testing123123.com/avatar2.jpg"
+      class="Avatar__image AvatarGroup__imageAvatar"
+      height="48"
+      src="https://testing123123.com/avatar2.jpg"
+      width="48"
+    />
+    <img
+      alt="https://testing123123.com/avatar3.jpg"
+      class="Avatar__image AvatarGroup__imageAvatar"
+      height="48"
+      src="https://testing123123.com/avatar3.jpg"
+      width="48"
+    />
+    <div
+      class="AvatarGroup__lists"
+      style="width: 48px; height: 48px;"
+    >
+      + 
+      2
+    </div>
+  </div>
+</div>
+`;

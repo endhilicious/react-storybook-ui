@@ -1,0 +1,25 @@
+.AvatarGroup__wrapper {
+  display: flex;
+}
+.AvatarGroup__lists {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: #E7EAF4;
+  margin-left: -15px;
+  border: 2px solid #fff;
+}
+.AvatarGroup__lists > span {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #767B87;
+}
+.AvatarGroup__imageAvatar {
+  border: 2px solid #fff;
+  margin-left: -15px;
+}
+.AvatarGroup__imageAvatar:first-child {
+  margin-left: 0;
+}

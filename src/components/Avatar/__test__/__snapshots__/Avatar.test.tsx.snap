@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar captures a component snapshot file 1`] = `
+<DocumentFragment>
+  <img
+    alt="https://assets.materialup.com/uploads/b78ca002-cd6c-4f84-befb-c09dd9261025/preview.png"
+    class="Avatar__image"
+    height="48"
+    src="https://assets.materialup.com/uploads/b78ca002-cd6c-4f84-befb-c09dd9261025/preview.png"
+    width="48"
+  />
+</DocumentFragment>
+`;
